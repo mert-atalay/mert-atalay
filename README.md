@@ -11,6 +11,10 @@ I work in marketing operations and data in Vancouver, Canada. My background is p
 
 Most of my work code lives in private repositories. Case studies are on **[mertatalay.com](https://mertatalay.com)**.
 
+## AdaletAI
+
+[AdaletAI](https://github.com/mert-atalay/adaletai) is my own project: a legal-work assistant for Turkish lawyers. It answers from a matter's documents and from legal sources, cites the exact passage behind every claim, and turns the conversation into a draft for a lawyer to review. Next.js, TypeScript, Supabase, hybrid retrieval, and evaluation suites that run with the build. The source is private; the linked page describes how it is built and what it does not do yet.
+
 ## Marketing and data projects
 
 These are small, working examples of how I build things. They run on synthetic data or test fixtures, each has tests that run on every change, and each README lists what it does not do.
