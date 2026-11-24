@@ -22,6 +22,7 @@ These are small, working examples of how I build things. They run on synthetic d
 | Project | What it is |
 | --- | --- |
 | [audience-to-creative](https://github.com/mert-atalay/audience-to-creative) | A pipeline from audience intelligence to ranked creative briefs to generated ad creative. Every insight traces back to its data, every variant passes brand and claims checks, a person approves, and results feed the next round. Python. |
+| [creative-tagger](https://github.com/mert-atalay/creative-tagger) | A vision model tags every ad image against a fixed list of attributes. The tags are checked for agreement and stability before anyone trusts them, then results are broken down by tag. Includes a real tagging run and what it got wrong. Python. |
 | [marketing-warehouse-starter](https://github.com/mert-atalay/marketing-warehouse-starter) | A starter marketing data warehouse: Dataform models for BigQuery that are tested locally on DuckDB, with checks that report totals match the raw data. |
 | [marketing-analyst-mcp](https://github.com/mert-atalay/marketing-analyst-mcp) | An MCP server that lets an AI assistant answer marketing questions from governed metrics instead of free SQL, with an evaluation set and human approval for budget changes. TypeScript. |
 | [wp-conversion-tracking](https://github.com/mert-atalay/wp-conversion-tracking) | A reference WordPress plugin that keeps a lead's traffic source, attaches it to form submissions and sends one de-duplicated conversion event after consent. PHP. |
